@@ -12,7 +12,7 @@ def first_steps
   end 
 end
 
-first_steps
+# first_steps
 
 def a_few_more_steps
   loop do
@@ -39,7 +39,7 @@ def a_few_more_steps
   end 
 end
 
-a_few_more_steps
+# a_few_more_steps
 
 def how_many_steps?
   steps = 0 
@@ -54,7 +54,7 @@ def how_many_steps?
   end
 end 
 
-how_many_steps?
+# how_many_steps?
 
 def break_dance
 steps = 0 
